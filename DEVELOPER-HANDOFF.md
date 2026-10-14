@@ -6,7 +6,7 @@
 ## Files
 | File | What it is |
 |---|---|
-| `the-bandha-landing-page.html` | The complete page in one file. Plain HTML, CSS and vanilla JS, with no build step or dependencies. Open it in a browser to see it. |
+| `index.html` | The complete page in one file. Plain HTML, CSS and vanilla JS, with no build step or dependencies. Open it in a browser to see it. |
 | `the-bandha-brand-ci.md` | Brand CI: logo, colour tokens, type, UI and voice rules. |
 
 ## How it's built

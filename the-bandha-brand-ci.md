@@ -1,6 +1,6 @@
 # The Bandha Hotel & Suites: Brand CI
 
-Pulled from thebandha.com, October 2026. Use this as the design system when you import `the-bandha-landing-page.html` into Claude Design.
+Pulled from thebandha.com, October 2026. Use this as the design system when you import `index.html` into Claude Design.
 
 ## Logo
 - Gold Balinese crown crest above the lowercase wordmark **"the bandha"**, with **HOTEL & SUITES** in small, widely spaced capitals underneath.
